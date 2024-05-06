@@ -6,9 +6,9 @@ The goal of this assignment is to assess your ability to write unit tests for a 
 
 ## Assignment Tasks
 
-You are required to write two unit tests for a hypothetical application using MediatR:
+You are required to write a unit test for a hypothetical application using MediatR:
 
-1. Request/Response Test:
+1. Request/Response (or Notification) Test
 
 - Scenario: Write a unit test for a request/response message that is dispatched to a single handler. The test should verify that the handler processes the request correctly and returns the expected response.
 
@@ -17,15 +17,6 @@ You are required to write two unit tests for a hypothetical application using Me
   - Ensure the handler returns a correct response when processed.
   - Implement error handling to manage potential exceptions thrown by the handler.
   - Document the test, explaining the purpose and the approach.
-
-2. Notification Test:
-
-- Scenario: Write a unit test for a notification message that is dispatched to multiple handlers. The test should ensure that all handlers receive the notification and process it appropriately.
-- Requirements:
-  - Create a notification and multiple handlers that subscribe to it.
-  - Verify that each handler processes the notification as expected.
-  - Implement error handling to manage potential exceptions thrown by any of the handlers.
-  - Document the test, detailing the notification flow and handler interactions.
 
 ## Guidelines
 
