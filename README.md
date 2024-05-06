@@ -33,6 +33,6 @@ You are required to write a unit test for a hypothetical application using Media
 ## Submission
 
 - Deadline: Please complete the assignment and push your changes to your forked repository within 48 hours from the time this assignment was given.
-- Submission: Once you have completed the assignment, please send the URL of your public repository to our company's submission email or through the provided submission link.
+- Submission: Once you have completed the assignment, please send the URL of your public repository to the hiring manager.
 
 _Good luck, and we look forward to reviewing your submission!_
