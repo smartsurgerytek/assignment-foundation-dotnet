@@ -1,4 +1,4 @@
-# Take-Home Assignment: MediatR Unit Testing
+# Take-Home Assignment: MediatR Unit Testing (.NET)
 
 ## Objective
 
