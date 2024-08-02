@@ -1,22 +1,12 @@
-# Take-Home Assignment: MediatR Unit Testing (.NET)
+# Take-Home Assignment: ABP Unit Testing (.NET)
 
 ## Objective
 
-The goal of this assignment is to assess your ability to write unit tests for a message-handling system using MediatR, a popular .NET library for in-process messaging. You will demonstrate your understanding of handling different types of messages, implementing error handling, and adhering to best practices in software engineering and documentation.
+The goal of this assignment is to assess your ability to write unit tests for a domain service using ABP framework https://abp.io/, a popular .NET library for modular architecture. You will demonstrate your understanding of writing unit test, implementing error handling, and adhering to best practices in software engineering and documentation.
 
 ## Assignment Tasks
 
-You are required to write a unit test for a hypothetical application using MediatR:
-
-1. Request/Response (or Notification) Test
-
-- Scenario: Write a unit test for a request/response message that is dispatched to a single handler. The test should verify that the handler processes the request correctly and returns the expected response.
-
-- Requirements:
-  - Create a request and a corresponding handler.
-  - Ensure the handler returns a correct response when processed.
-  - Implement error handling to manage potential exceptions thrown by the handler.
-  - Document the test, explaining the purpose and the approach.
+You are required to write a unit test for a hypothetical application using ABP framework:
 
 ## Guidelines
 
@@ -27,12 +17,13 @@ You are required to write a unit test for a hypothetical application using Media
 
 ## Setup Instructions
 
-- Fork the Repository: Fork the official MediatR repository located at https://github.com/jbogard/MediatR to your personal GitHub account. This will be your working repository for the assignment.
+- Fork the Repository: Fork the official ABP repository located at https://github.com/abpframework/abp to your personal GitHub account. This will be your working repository for the assignment.
 - Clone Your Fork: Clone the forked repository to your local machine to begin working on the assignment.
+- write unit test by following this tutorial https://abp.io/docs/latest/testing/overall
 
 ## Submission
 
-- Deadline: Please complete the assignment and push your changes to your forked repository within 48 hours from the time this assignment was given.
+- Deadline: Please complete the assignment and push your changes to your forked repository within 48 hours from when this assignment was given.
 - Submission: Once you have completed the assignment, please send the URL of your public repository to the hiring manager: service@smartsurgerytek.com
 
 _Good luck, and we look forward to reviewing your submission!_
