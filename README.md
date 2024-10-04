@@ -42,7 +42,7 @@ The candidate's submission will be evaluated based on the following criteria:
 
 ## Submission
 
-* Deadline: Please complete the assignment and push your changes to your forked repository within 48 hours from when this assignment was given.
+* Deadline: Please complete the assignment and push your changes to your forked repository
 * Submission: Once you have completed the assignment, please send the URL of your public repository to the hiring manager: service@smartsurgerytek.com
 
 _Good luck, and we look forward to reviewing your submission!_
